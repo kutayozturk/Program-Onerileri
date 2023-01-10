@@ -40,7 +40,7 @@
   * [BC Uninstaller](https://www.bcuninstaller.com/) Bulk Crap Uninstaller | Gelişmiş program kaldırıcı
   * [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) Display Driver Uninstaller
   * [O&O AppBuster](https://www.oo-software.com/en/ooappbuster)
- - Usb Boot
+- Usb Boot
   * [Ventoy](https://www.ventoy.net/en/download.html) Basit bir şekilde USB BOOT oluşturun (MultiBoot Destekli)
   * [Rufus](https://rufus.ie/tr/) Basit bir şekilde USB BOOT oluşturun
 - Veri Kurtarma
