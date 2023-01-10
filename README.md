@@ -2,6 +2,7 @@
 
 - Casusluk Öneleme
   * [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) Windows Telemetri veri gönderimini engelle
+  * [AdwCleaner](https://www.malwarebytes.com/adwcleaner) Sisteme bulaşmış Reklam virüslerini temizle
 - Converter
   * [File Converter](https://file-converter.org/) Sağ tık menüsüne Convert seçenekleri ekleniyor
 - Eğitim
@@ -48,3 +49,4 @@
   * [SuperF4](https://stefansundin.github.io/superf4/) Reset atmadan donan ekrandan kurtul
   * [OpenRBG](https://openrgb.org/) RBG destekli cihazların renklerini ayarlayabilirisiniz
   * [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) Windows Araçları
+  * [Microsoft Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/) Windows Araçları
