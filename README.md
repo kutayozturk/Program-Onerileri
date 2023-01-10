@@ -48,5 +48,5 @@
 - Yardımcı Araçlar
   * [SuperF4](https://stefansundin.github.io/superf4/) Reset atmadan donan ekrandan kurtul
   * [OpenRBG](https://openrgb.org/) RBG destekli cihazların renklerini ayarlayabilirisiniz
-  * [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) Windows Araçları
-  * [Microsoft Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/) Windows Araçları
+  * [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) Microsoft tarafından geliştirilmiş Windows Araçları
+  * [Microsoft Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/) Microsoft tarafından geliştirilmiş farklı amaçlara hizmet eden uygulama havuzu
