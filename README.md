@@ -37,6 +37,7 @@
   * [RetoolKit](https://github.com/mentebinaria/retoolkit/releases) Tersine mühendislik, analiz ve ağ araçları
 - Temizlik Araçları
   * [Shellbag Analyzer & Cleaner](https://privazer.com/tr/download-shellbag-analyzer-shellbag-cleaner.php) Gizlilik odaklı temizleme aracı.
+  * [Privazer](https://privazer.com/tr/download.php) Kapsamlı Disk Temizliği
 - Uninstaller
   * [Geek Uninstaller](https://geekuninstaller.com/download) Küçük boyutlu, kurulumsuz Uninstaller
   * [BC Uninstaller](https://www.bcuninstaller.com/) Bulk Crap Uninstaller | Gelişmiş program kaldırıcı
