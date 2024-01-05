@@ -54,4 +54,6 @@
   * [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) Microsoft tarafından geliştirilmiş Windows Araçları
   * [Microsoft Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/) Microsoft tarafından geliştirilmiş farklı amaçlara hizmet eden uygulama havuzu
 - Ses Araçları
-  * [FxSound](https://www.fxsound.com/) Windows ses iyiletirme, netleştirme ve güçlendirme yazılımı 
+  * [FxSound](https://www.fxsound.com/) Windows ses iyiletirme, netleştirme ve güçlendirme yazılımı
+- Ekran Koruyucu
+  * [Fliqlo](https://fliqlo.com/) Windows ve Mac OS için Flip Clock Screen Saver
